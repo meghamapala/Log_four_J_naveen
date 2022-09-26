@@ -1,0 +1,87 @@
+[INFO ] 2021-03-14 13:56:37.987 [main] Log_4_J - information message
+[ERROR] 2021-03-14 13:56:37.989 [main] Log_4_J - error message
+[WARN ] 2021-03-14 13:56:37.989 [main] Log_4_J - warn
+[FATAL] 2021-03-14 13:56:37.989 [main] Log_4_J - fatal
+[INFO ] 2021-03-14 14:24:21.332 [main] Log_4_J - information message
+[ERROR] 2021-03-14 14:24:21.337 [main] Log_4_J - error message
+[WARN ] 2021-03-14 14:24:21.337 [main] Log_4_J - warn
+[FATAL] 2021-03-14 14:24:21.337 [main] Log_4_J - fatal
+[INFO ] 2021-03-14 14:36:03.704 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 14:36:05.035 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 14:36:05.036 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 14:36:05.036 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 14:36:05.036 [main] LoginTest - this is debug message
+[INFO ] 2021-03-14 14:36:05.048 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-14 14:36:06.067 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 14:36:08.084 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 14:36:08.085 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 14:36:08.085 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 14:36:08.085 [main] LoginTest - this is debug message
+[INFO ] 2021-03-14 15:02:58.925 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 15:03:00.733 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 15:03:00.734 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 15:03:00.734 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 15:03:00.734 [main] LoginTest - this is debug message
+[INFO ] 2021-03-14 15:03:00.764 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-14 15:03:01.854 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 15:03:03.056 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 15:03:03.056 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 15:03:03.056 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 15:03:03.056 [main] LoginTest - this is debug message
+[INFO ] 2021-03-14 15:04:07.260 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 15:04:08.336 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 15:04:08.336 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 15:04:08.336 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 15:04:08.336 [main] LoginTest - this is debug message
+[INFO ] 2021-03-14 15:04:08.515 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-14 15:04:09.630 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 15:04:10.895 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 15:04:10.895 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 15:04:10.895 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 15:04:10.895 [main] LoginTest - this is debug message
+[FATAL] 2021-03-14 15:07:06.015 [main] LoginTest - hey this is just fatal error message
+[FATAL] 2021-03-14 15:07:08.355 [main] LoginTest - hey this is just fatal error message
+[INFO ] 2021-03-14 15:07:51.505 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 15:07:53.125 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 15:07:53.125 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 15:07:53.126 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 15:07:53.126 [main] LoginTest - this is debug message
+[INFO ] 2021-03-14 15:07:53.138 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-14 15:07:54.118 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-14 15:07:55.294 [main] LoginTest - entering application URL
+[WARN ] 2021-03-14 15:07:55.295 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-14 15:07:55.295 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-14 15:07:55.295 [main] LoginTest - this is debug message
+[INFO ] 2021-03-15 14:51:24.151 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-15 14:51:28.969 [main] LoginTest - entering application URL
+[WARN ] 2021-03-15 14:51:28.970 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-15 14:51:28.970 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-15 14:51:28.970 [main] LoginTest - this is debug message
+[INFO ] 2021-03-15 14:51:28.987 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-15 14:51:30.133 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-15 14:51:32.612 [main] LoginTest - entering application URL
+[WARN ] 2021-03-15 14:51:32.612 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-15 14:51:32.612 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-15 14:51:32.612 [main] LoginTest - this is debug message
+[INFO ] 2021-03-15 19:31:30.600 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-15 19:31:32.317 [main] LoginTest - entering application URL
+[WARN ] 2021-03-15 19:31:32.318 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-15 19:31:32.318 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-15 19:31:32.318 [main] LoginTest - this is debug message
+[INFO ] 2021-03-15 19:31:32.324 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-15 19:31:33.315 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-15 19:31:34.680 [main] LoginTest - entering application URL
+[WARN ] 2021-03-15 19:31:34.680 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-15 19:31:34.680 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-15 19:31:34.681 [main] LoginTest - this is debug message
+[INFO ] 2021-03-15 19:32:10.514 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-15 19:32:12.013 [main] LoginTest - entering application URL
+[WARN ] 2021-03-15 19:32:12.014 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-15 19:32:12.014 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-15 19:32:12.014 [main] LoginTest - this is debug message
+[INFO ] 2021-03-15 19:32:12.021 [main] LoginTest - login page title is-->Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+[INFO ] 2021-03-15 19:32:13.115 [main] LoginTest - launching chrome browser
+[INFO ] 2021-03-15 19:32:14.625 [main] LoginTest - entering application URL
+[WARN ] 2021-03-15 19:32:14.625 [main] LoginTest - Hey this is just a warning
+[FATAL] 2021-03-15 19:32:14.625 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2021-03-15 19:32:14.626 [main] LoginTest - this is debug message
